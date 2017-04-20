@@ -6,7 +6,7 @@ build:
         code: mvn -f springboot-sample/pom.xml install
 push:
   steps:
-    # Push to private docker repo 1
+    # Push to private docker repo 1dss
     - internal/docker-push:
         username: $DOCKER_USERNAME
         password: $DOCKER_PASSWORD
