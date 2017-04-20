@@ -3,7 +3,7 @@ build:
   steps:
     - script:
         name: Maven install
-        code: mvn install
+        code: mvn -f springboot-sample/pom.xml install
 push:
   steps:
     # Push to private docker repo 1
