@@ -13,5 +13,4 @@ push:
         tag: springbootapp
         repository: maciejgruszka/poc4
         registry: https://index.docker.io/v1/
-        ports: 8090
         cmd: java -jar  /pipeline/source/springboot-sample/target/springbootdemo-0.0.1.war
