@@ -1,4 +1,4 @@
-box: java
+box: maven
 build:
   steps:
     - script:
