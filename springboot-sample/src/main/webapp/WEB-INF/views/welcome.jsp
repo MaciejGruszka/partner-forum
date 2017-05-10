@@ -56,7 +56,7 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>Wercker and Oracle  AND SpringBoot application demo. Current server time: <%= new java.util.Date() %> <br>
+              <br>Wercker and Oracle  AND SpringBoot application demo for Office Hour. Current server time: <%= new java.util.Date() %> <br>
               <h3>
                 <span style="color: #333; text-decoration: none">About
                   Oracle Application Container Cloud</span>
