@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/e3396574342b687d37628354feff5387/s/master "wercker status")](https://app.wercker.com/project/byKey/e3396574342b687d37628354feff5387)
+
 ![](common/images/banner.png)
 
 This repository contains labs material for **PaaS & Middleware Partner Community Forum Bootcamps**.
